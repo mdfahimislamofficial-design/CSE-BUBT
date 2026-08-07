@@ -1,0 +1,4 @@
+Scenario: You are the system administrator of a Linux server used by a small 
+development team.
+Recently, there have been some issues reported by team members, and you need 
+to troubleshoot and perform user management tasks.
