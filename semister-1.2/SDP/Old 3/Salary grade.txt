@@ -1,0 +1,7 @@
+
+        grade 5: Salary = 1200
+        grade 4: Salary = 1800
+        grade 3: Salary = 2400
+        grade 2: Salary = 3200
+        grade 1: Salary = 4500
+  default grade: Salary = 1200
